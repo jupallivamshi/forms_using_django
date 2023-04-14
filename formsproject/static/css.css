@@ -1,0 +1,27 @@
+body{
+    background-image: url(images/img1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+
+
+    font-family: Tahoma;
+    
+}
+h1{
+    color: blue;
+}
+input{
+    background-color: transparent;
+    border-radius: 7px 20px;
+    
+}
+textarea{
+    background-color: transparent;
+    
+}
+textarea:hover{
+    background-color: aliceblue;
+    
+}
